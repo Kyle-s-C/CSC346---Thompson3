@@ -36,7 +36,7 @@ namespace NewVegasNS
             Luck = character.Luck;
         }
 
-        public override string ToString()
+        public override string? ToString()
         {
             return $"Strength:       {Strength} \nPerception:     {Perception} \nEndurance:      {Endurance} \nCharisma:       {Charisma} \nIntelligence:   {Intelligence} \nAgility:        {Agility} \nLuck:           {Luck}";
         }

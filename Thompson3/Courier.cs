@@ -31,7 +31,7 @@ namespace NewVegasNS
         }
 
         // Methods
-        public override string ToString()
+        public override string? ToString()
         {
             return  base.ToString () + $"\nArmor:          {Armor} \nWeapon:         {Weapon}";
         }
