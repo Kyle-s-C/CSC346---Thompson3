@@ -31,7 +31,6 @@ namespace NewVegasApp
         *** RETURN : void - no value                                      ***
         ********************************************************************/
 
-
         static void Main(string[] args)
         {
             
